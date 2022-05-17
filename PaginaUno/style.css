@@ -1,0 +1,38 @@
+
+
+
+body{background-image: url(https://s2.qwant.com/thumbr/0x380/f/c/bf82ab11c9f2285d0aed3aa7c15b69b6e9e5dfe6c9623d9470f863f5bacd9d/fba1050ad7adf60e-under-the-sea-oc-cc-pixelart.gif?u=http%3A%2F%2Fcdn.lowgif.com%2Ffull%2Ffba1050ad7adf60e-under-the-sea-oc-cc-pixelart.gif&q=0&b=1&p=0&a=1);
+    background-size: 100% 100%;}
+
+header, article, footer{
+    background-color: #FFFFFF;
+    border:2px solid #000;
+    text-align:center;
+    position: relative;
+    width:100%;
+}
+
+header{
+    min-height:100px;
+    background-color: rgba(193, 181, 4, 0.791);
+}
+
+article{
+    opacity: 75%;
+    min-height:400px;
+    margin: 20px 0 20px 0;
+    background-image: url(https://s1.qwant.com/thumbr/0x380/b/0/d2c9889670bc41151a1e7bed8b4e10d1dd6303596a79ef20fbf129d97c441b/BgqfS4Z.gif?u=http%3A%2F%2Fi.imgur.com%2FBgqfS4Z.gif&q=0&b=1&p=0&a=1);
+    filter: brightness(1);
+    mix-blend-mode:add;
+    background-size: 100% 100%;
+    
+    
+}
+
+footer{
+    min-height:100px;
+    opacity: 50%;
+}
+
+#slider{width:30%; float:left; margin:2% 0 2% 4%; background-color:#ccc;border:2px solid #000; min-height:50px; position: absolute;}
+#social{width:20%; float:right; margin:2% 4% 2% 0%; background-color:#ccc;border:2px solid #000; min-height:50px;}

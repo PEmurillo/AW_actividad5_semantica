@@ -1,0 +1,48 @@
+body{background-image: url(https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQeruPHGK1zdhVn49wKAMCOpVJz-jhdcdjHbmQKkS5EL9EnGzLOLexUY_LQfsb1dHmweb8nyDsodtni0ngZHPXjyBYEv.jpg);}
+
+header, #MainBanner,#SecondBanner, footer{
+    background-color: #FFFFFF;
+    border:2px solid #000;
+    text-align:center;
+    position: relative;
+    width:100%;
+}
+
+header{
+    min-height:100px;
+}
+
+
+
+footer{
+    min-height:100px;
+    float:left;
+    margin: 5% 0 0 0;
+}
+
+#floatSquares{
+    width:100%;
+    min-height:400px;
+
+}
+
+.squares{
+    margin: 3% 3% 2% 4.5%;
+    width: 25%;
+    min-height:300px;
+    background-color: #ffffff00;
+    border:2px solid #000;
+    text-align:center;
+    float:left;
+}
+
+
+.imageSection{
+    
+    margin: 10% 20% 10% 20%;
+    width: 50%;
+    height: 50%;
+}
+
+#slider{width:30%; float:left; margin:2% 0 2% 4%; background-color:#ccc;border:2px solid #000; min-height:50px; position: absolute;}
+#social{width:20%; float:right; margin:2% 4% 2% 0%; background-color:#ccc;border:2px solid #000; min-height:50px;}
